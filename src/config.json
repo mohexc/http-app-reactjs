@@ -1,0 +1,4 @@
+{
+  "apiEndpoint": "https://jsonplaceholder.typicode.com/posts?_limit=10",
+  "apiEndpoint2": "https://jsonplaceholder.typicode.com/posts"
+}
